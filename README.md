@@ -8,6 +8,9 @@ Projeto desenvolvido para fins de estudo e portfólio, com foco em boas prática
 - JavaScript (ES6+)
 - Vue Router
 - Vite
+- HTML
+- CSS
+- TypeScript
 
 ## 🎯 Objetivo do projeto
 Aplicar conceitos de:
