@@ -26,4 +26,5 @@ Aplicar conceitos de:
 Em desenvolvimento / Versão de estudo
 
 ## 🔗 Demonstração
-(Adicionar link do GitHub Pages quando disponível)
+https://redguardian69.github.io/site-rugby/
+https://redguardian69.github.io/projeto-cordel/
