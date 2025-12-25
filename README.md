@@ -1,16 +1,29 @@
-## Hi there 👋
+# Nome do Projeto
 
-<!--
-**RedGuardian69/RedGuardian69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projeto desenvolvido para fins de estudo e portfólio, com foco em boas práticas de desenvolvimento front-end e aprendizado progressivo.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias utilizadas
+- Vue.js 3
+- Quasar Framework
+- JavaScript (ES6+)
+- Vue Router
+- Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivo do projeto
+Aplicar conceitos de:
+- Arquitetura SPA
+- Organização de componentes
+- Roteamento real
+- Responsividade
+- Estrutura profissional de projeto
+
+## 🧠 Observações
+- Código escrito manualmente para fixação do aprendizado
+- Dados fictícios utilizados exclusivamente para fins educacionais
+- Projeto em evolução contínua
+
+## 📌 Status
+Em desenvolvimento / Versão de estudo
+
+## 🔗 Demonstração
+(Adicionar link do GitHub Pages quando disponível)
