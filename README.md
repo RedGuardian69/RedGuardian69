@@ -1,4 +1,4 @@
-# Nome do Projeto
+# PROJETOS AUTORAIS
 
 Projeto desenvolvido para fins de estudo e portfólio, com foco em boas práticas de desenvolvimento front-end e aprendizado progressivo.
 
