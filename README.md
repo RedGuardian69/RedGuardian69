@@ -11,6 +11,7 @@ Projeto desenvolvido para fins de estudo e portfólio, com foco em boas prática
 - HTML
 - CSS
 - TypeScript
+- C#
 
 ## 🎯 Objetivo do projeto
 Aplicar conceitos de:
